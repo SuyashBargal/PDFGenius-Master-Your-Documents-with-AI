@@ -1,5 +1,7 @@
 # PDFGenius: Master Your Documents with AI
 
+![Chatbot_image](chatbot.jpg)
+
 ### Overview
 This application allows users to interact with PDF documents through a conversational interface powered by Google Generative AI and LangChain. Users can upload PDF files, ask questions based on the content of those files, and receive detailed answers.
 
